@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.chauthai.swipereveallayout.SwipeRevealLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:dragEdge="right"
+    app:mode="normal"
+    tools:context="pocketcoder.application.presentation.activity.main.MainController">
+
+
+    <!-- Your secondary layout here -->
+    <include layout="@layout/content_main_back"/>
+    <!-- Your main layout here -->
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/container"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+<!--
+        <com.luseen.spacenavigation.SpaceNavigationView
+            android:id="@+id/space"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            app:active_item_color="@color/colorAccent"
+            app:centre_button_color="@color/centre_button_color"
+             app:space_background_color="#000"
+            app:space_item_icon_size="@dimen/space_item_icon_default_size"
+            app:space_item_icon_only_size="@dimen/space_item_icon_only_size"
+            app:space_item_text_size="@dimen/space_item_text_default_size"
+            app:layout_behavior="com.luseen.spacenavigation.SpaceNavigationViewBehavior"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent" />
+   -->
+    </android.support.constraint.ConstraintLayout>
+
+</com.chauthai.swipereveallayout.SwipeRevealLayout>
