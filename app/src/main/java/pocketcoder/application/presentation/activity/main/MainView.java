@@ -13,4 +13,5 @@ public abstract class MainView extends DIBaseActivity implements MainContract.Vi
     @Override public int initContentView() {
         return R.layout.activity_main;
     }
+
 }
