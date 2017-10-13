@@ -20,12 +20,12 @@
         "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_menu_share_holo_light.png"
     },
     {
-        "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ondemand_overlay.9.png",
-        "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ondemand_overlay.9.png"
-    },
-    {
         "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_search.png",
         "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_search.png"
+    },
+    {
+        "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ondemand_overlay.9.png",
+        "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ondemand_overlay.9.png"
     },
     {
         "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\color_picker_advanced_select_handle.png",

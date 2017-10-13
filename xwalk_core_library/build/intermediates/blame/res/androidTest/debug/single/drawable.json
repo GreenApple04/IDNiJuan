@@ -44,12 +44,12 @@
         "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dropdown_popup_background_down.9.png"
     },
     {
-        "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_share_holo_light.png",
-        "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_share_holo_light.png"
-    },
-    {
         "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bubble.9.png",
         "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bubble.9.png"
+    },
+    {
+        "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_menu_share_holo_light.png",
+        "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_menu_share_holo_light.png"
     },
     {
         "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\autofill_chip_inset.xml",
