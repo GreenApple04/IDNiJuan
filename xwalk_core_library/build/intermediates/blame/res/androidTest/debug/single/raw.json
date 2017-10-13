@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\icudtl.dat",
+        "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\icudtl.dat"
+    },
+    {
+        "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\launch_screen_api.js",
+        "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\launch_screen_api.js"
+    },
+    {
+        "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\wifidirect_api.js",
+        "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\wifidirect_api.js"
+    },
+    {
+        "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\empty.wav",
+        "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\empty.wav"
+    },
+    {
+        "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\xwalk_100_percent.pak",
+        "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\xwalk_100_percent.pak"
+    },
+    {
+        "merged": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\xwalk.pak",
+        "source": "E:\\Projects\\Template\\xwalk_core_library\\build\\intermediates\\bundles\\debug\\res\\raw\\xwalk.pak"
+    }
+]
