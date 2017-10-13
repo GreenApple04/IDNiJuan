@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#fff"
+    android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-</LinearLayout>
+        <!--
+                <com.luseen.spacenavigation.SpaceNavigationView
+                    android:id="@+id/space"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:layout_marginBottom="0dp"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="0dp"
+                    app:active_item_color="@color/colorAccent"
+                    app:centre_button_color="@color/centre_button_color"
+                     app:space_background_color="#000"
+                    app:space_item_icon_size="@dimen/space_item_icon_default_size"
+                    app:space_item_icon_only_size="@dimen/space_item_icon_only_size"
+                    app:space_item_text_size="@dimen/space_item_text_default_size"
+                    app:layout_behavior="com.luseen.spacenavigation.SpaceNavigationViewBehavior"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent" />
+           -->
+</android.support.constraint.ConstraintLayout>
