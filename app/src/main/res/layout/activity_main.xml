@@ -11,4 +11,5 @@
     <include layout="@layout/content_main_back"/>
     <!-- Your main layout here -->
     <include layout="@layout/content_main"/>
+    <!-- Add more layout if incase -->
 </com.chauthai.swipereveallayout.SwipeRevealLayout>
